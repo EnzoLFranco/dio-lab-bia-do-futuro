@@ -45,4 +45,45 @@ def extrair_json_ollama(mensagem_usuario):
         return json.loads(dados)
     except json.JSONDecodeError:
         return {"valor": 0.0, "categoria": "Outros"}
+def gerar_resposta_ollama(dados_json, status_orcamento):
+    """Passo 2: Pede para o LLM gerar a resposta amigável do CentavoBot."""
+    contexto = f"""
+    [Dados Registrados no Sistema]
+    Valor: R$ {dados_json['valor']}
+    Categoria: {dados_json['categoria']}
+    Status do Orçamento: {status_orcamento}
+    """
+    
+    prompt = f"{SYSTEM_PROMPT_BOT}\n\n{contexto}\n\nGere a resposta para o usuário confirmando o registro."
+    
+    payload = {
+        "model": MODELO,
+        "prompt": prompt,
+        "stream": False
+    }
+    
+    resposta = requests.post(OLLAMA_URL, json=payload)
+    return resposta.json()['response']
 
+# Orquestrador
+def processar_gasto(mensagem_usuario):
+    print("1. Extraindo dados da mensagem...")
+    dados = extrair_json_ollama(mensagem_usuario)
+    print(f"   -> JSON Extraído: {dados}")
+    
+    status_mockado = "O usuário ainda tem folga no orçamento desta categoria."
+    
+    print("2. Gerando resposta do CentavoBot...")
+    resposta_final = gerar_resposta_ollama(dados, status_mockado)
+    
+    return resposta_final
+
+# Teste rápido
+if __name__ == "__main__":
+    msg_teste = "Paguei 25 reais num lanche na padaria agora"
+    print(f"Mensagem do usuário: '{msg_teste}'\n")
+    
+    resultado = processar_gasto(msg_teste)
+    
+    print("\n--- RESPOSTA DO CENTAVOBOT ---")
+    print(resultado)
