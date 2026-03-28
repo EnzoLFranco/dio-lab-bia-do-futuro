@@ -1,0 +1,10 @@
+{
+    "limites": {
+        "Alimentacao": 800.0,
+        "Transporte": 400.0,
+        "Lazer": 300.0,
+        "Saude": 200.0,
+        "Moradia": 1500.0,
+        "Outros": 200.0
+    }
+}

@@ -1,0 +1,201 @@
+data,descricao,categoria,valor
+2025-12-28,Padaria,Alimentacao,54.04
+2025-12-28,Papelaria,Outros,132.96
+2025-12-28,iFood,Alimentacao,19.57
+2025-12-29,Netflix,Lazer,143.73
+2025-12-29,Show,Lazer,143.42
+2025-12-29,Condomínio,Moradia,121.43
+2025-12-30,iFood,Alimentacao,201.78
+2025-12-31,Papelaria,Outros,82.55
+2026-01-01,Netflix,Lazer,44.4
+2026-01-01,Presente,Outros,88.75
+2026-01-01,Padaria,Alimentacao,241.96
+2026-01-01,Papelaria,Outros,56.78
+2026-01-01,Papelaria,Outros,62.83
+2026-01-02,Mercado,Alimentacao,112.88
+2026-01-02,Show,Lazer,65.74
+2026-01-02,Conta de Luz,Moradia,432.43
+2026-01-02,iFood,Alimentacao,127.62
+2026-01-03,Show,Lazer,133.05
+2026-01-04,Suplementos,Saude,51.87
+2026-01-04,Internet,Moradia,1303.92
+2026-01-04,Consulta Médica,Saude,87.7
+2026-01-06,Internet,Moradia,288.38
+2026-01-07,Cinema,Lazer,122.61
+2026-01-07,Spotify,Lazer,126.54
+2026-01-08,Posto de Gasolina,Transporte,191.86
+2026-01-08,Condomínio,Moradia,220.69
+2026-01-08,Metrô,Transporte,67.79
+2026-01-08,Estacionamento,Transporte,227.84
+2026-01-09,Estacionamento,Transporte,154.64
+2026-01-09,Posto de Gasolina,Transporte,112.47
+2026-01-09,Posto de Gasolina,Transporte,158.59
+2026-01-10,Presente,Outros,59.74
+2026-01-10,Aluguel,Moradia,1189.71
+2026-01-11,Água,Moradia,281.83
+2026-01-11,Posto de Gasolina,Transporte,79.1
+2026-01-11,Academia,Saude,52.24
+2026-01-12,Netflix,Lazer,148.77
+2026-01-12,Uber,Transporte,99.45
+2026-01-12,Conta de Luz,Moradia,542.28
+2026-01-13,Netflix,Lazer,44.57
+2026-01-13,Posto de Gasolina,Transporte,120.06
+2026-01-14,Suplementos,Saude,78.5
+2026-01-16,Petshop,Outros,141.93
+2026-01-17,Lanchonete,Alimentacao,86.66
+2026-01-17,Netflix,Lazer,116.16
+2026-01-17,Restaurante,Alimentacao,168.07
+2026-01-18,Internet,Moradia,214.86
+2026-01-18,Petshop,Outros,117.73
+2026-01-18,Água,Moradia,752.24
+2026-01-19,Mercado,Alimentacao,188.82
+2026-01-19,Água,Moradia,694.31
+2026-01-21,Suplementos,Saude,91.05
+2026-01-23,Papelaria,Outros,46.91
+2026-01-23,Farmácia,Saude,129.61
+2026-01-23,Condomínio,Moradia,920.68
+2026-01-23,Mercado,Alimentacao,32.83
+2026-01-23,Farmácia,Saude,146.19
+2026-01-23,Papelaria,Outros,44.96
+2026-01-23,Petshop,Outros,59.75
+2026-01-23,Água,Moradia,624.01
+2026-01-24,Netflix,Lazer,130.13
+2026-01-24,Barzinho,Lazer,131.01
+2026-01-24,Estacionamento,Transporte,151.8
+2026-01-25,Posto de Gasolina,Transporte,97.99
+2026-01-25,Farmácia,Saude,45.34
+2026-01-25,Suplementos,Saude,137.46
+2026-01-25,Água,Moradia,215.0
+2026-01-25,Restaurante,Alimentacao,112.58
+2026-01-25,Farmácia,Saude,27.66
+2026-01-25,Academia,Saude,30.86
+2026-01-25,Conta de Luz,Moradia,151.25
+2026-01-25,Metrô,Transporte,77.75
+2026-01-27,iFood,Alimentacao,91.69
+2026-01-27,Estacionamento,Transporte,221.81
+2026-01-27,Cinema,Lazer,130.79
+2026-01-27,Restaurante,Alimentacao,209.89
+2026-01-27,Condomínio,Moradia,347.21
+2026-01-28,Metrô,Transporte,31.11
+2026-01-28,Mercado,Alimentacao,243.69
+2026-01-28,iFood,Alimentacao,136.12
+2026-01-28,Academia,Saude,50.14
+2026-01-29,Barzinho,Lazer,116.2
+2026-01-29,Farmácia,Saude,116.87
+2026-01-30,Padaria,Alimentacao,225.03
+2026-01-30,Estacionamento,Transporte,195.73
+2026-01-30,Conta de Luz,Moradia,1360.0
+2026-01-31,Papelaria,Outros,90.83
+2026-02-01,Petshop,Outros,61.3
+2026-02-02,Estacionamento,Transporte,105.93
+2026-02-02,Suplementos,Saude,137.05
+2026-02-04,Estacionamento,Transporte,194.91
+2026-02-05,Suplementos,Saude,30.53
+2026-02-06,Netflix,Lazer,64.54
+2026-02-06,Show,Lazer,135.08
+2026-02-06,Cinema,Lazer,141.75
+2026-02-06,Cinema,Lazer,116.84
+2026-02-06,Suplementos,Saude,50.74
+2026-02-06,Spotify,Lazer,60.12
+2026-02-07,Papelaria,Outros,24.72
+2026-02-08,Petshop,Outros,134.74
+2026-02-09,Conta de Luz,Moradia,589.88
+2026-02-09,Internet,Moradia,443.08
+2026-02-10,Netflix,Lazer,97.91
+2026-02-11,Cinema,Lazer,46.04
+2026-02-11,Barzinho,Lazer,29.06
+2026-02-12,Internet,Moradia,746.26
+2026-02-13,Lanchonete,Alimentacao,18.1
+2026-02-13,Spotify,Lazer,144.52
+2026-02-14,Condomínio,Moradia,553.42
+2026-02-14,Barzinho,Lazer,114.05
+2026-02-14,Internet,Moradia,659.08
+2026-02-14,Conta de Luz,Moradia,1091.57
+2026-02-15,Conta de Luz,Moradia,471.95
+2026-02-16,Metrô,Transporte,161.6
+2026-02-17,Academia,Saude,96.51
+2026-02-17,Lanchonete,Alimentacao,190.94
+2026-02-18,Barzinho,Lazer,33.07
+2026-02-18,Condomínio,Moradia,1379.54
+2026-02-18,Internet,Moradia,478.35
+2026-02-18,Barzinho,Lazer,56.09
+2026-02-19,Farmácia,Saude,148.16
+2026-02-20,Condomínio,Moradia,1484.37
+2026-02-21,Metrô,Transporte,76.6
+2026-02-22,Suplementos,Saude,142.38
+2026-02-22,Presente,Outros,81.04
+2026-02-24,Padaria,Alimentacao,72.97
+2026-02-24,Posto de Gasolina,Transporte,195.14
+2026-02-25,Posto de Gasolina,Transporte,80.04
+2026-02-25,Cinema,Lazer,139.67
+2026-02-26,Metrô,Transporte,143.64
+2026-02-26,Papelaria,Outros,54.51
+2026-02-27,Posto de Gasolina,Transporte,91.56
+2026-02-27,Academia,Saude,46.17
+2026-02-28,Manutenção,Outros,92.94
+2026-02-28,Academia,Saude,113.6
+2026-02-28,Condomínio,Moradia,997.25
+2026-03-01,Mercado,Alimentacao,142.3
+2026-03-02,Farmácia,Saude,80.08
+2026-03-02,Netflix,Lazer,76.06
+2026-03-02,iFood,Alimentacao,246.4
+2026-03-02,Manutenção,Outros,134.99
+2026-03-03,Consulta Médica,Saude,68.74
+2026-03-03,Barzinho,Lazer,45.73
+2026-03-03,Presente,Outros,55.93
+2026-03-04,Consulta Médica,Saude,80.32
+2026-03-05,Presente,Outros,140.42
+2026-03-05,Consulta Médica,Saude,75.35
+2026-03-06,Netflix,Lazer,53.02
+2026-03-07,Metrô,Transporte,85.24
+2026-03-07,Mercado,Alimentacao,38.56
+2026-03-07,Água,Moradia,1129.24
+2026-03-07,Uber,Transporte,103.45
+2026-03-08,Cinema,Lazer,132.63
+2026-03-08,Mercado,Alimentacao,113.21
+2026-03-09,Netflix,Lazer,107.8
+2026-03-09,Restaurante,Alimentacao,218.77
+2026-03-09,Metrô,Transporte,38.11
+2026-03-09,Água,Moradia,773.01
+2026-03-10,Academia,Saude,130.29
+2026-03-10,Cinema,Lazer,45.38
+2026-03-10,Show,Lazer,116.28
+2026-03-12,Estacionamento,Transporte,74.56
+2026-03-12,Condomínio,Moradia,1261.65
+2026-03-13,Água,Moradia,1412.91
+2026-03-13,Presente,Outros,107.25
+2026-03-14,Presente,Outros,59.78
+2026-03-14,Spotify,Lazer,64.88
+2026-03-14,Mercado,Alimentacao,142.59
+2026-03-14,Metrô,Transporte,87.89
+2026-03-14,Consulta Médica,Saude,36.25
+2026-03-14,Uber,Transporte,195.39
+2026-03-15,Netflix,Lazer,53.52
+2026-03-16,Petshop,Outros,64.84
+2026-03-16,Spotify,Lazer,144.97
+2026-03-16,Condomínio,Moradia,1343.86
+2026-03-17,Conta de Luz,Moradia,568.78
+2026-03-17,Manutenção,Outros,58.55
+2026-03-17,Academia,Saude,44.18
+2026-03-18,Metrô,Transporte,216.02
+2026-03-19,Água,Moradia,478.13
+2026-03-19,Uber,Transporte,98.65
+2026-03-19,Manutenção,Outros,96.69
+2026-03-20,Suplementos,Saude,41.87
+2026-03-20,Água,Moradia,504.05
+2026-03-21,iFood,Alimentacao,58.28
+2026-03-21,Mercado,Alimentacao,29.21
+2026-03-21,Aluguel,Moradia,1076.02
+2026-03-22,Farmácia,Saude,59.82
+2026-03-22,Suplementos,Saude,34.82
+2026-03-22,Petshop,Outros,62.17
+2026-03-23,Padaria,Alimentacao,219.53
+2026-03-23,iFood,Alimentacao,68.63
+2026-03-24,Conta de Luz,Moradia,708.17
+2026-03-24,Uber,Transporte,70.14
+2026-03-24,Suplementos,Saude,47.38
+2026-03-25,Netflix,Lazer,62.16
+2026-03-26,Petshop,Outros,80.06
+2026-03-26,Papelaria,Outros,129.37
+2026-03-27,Academia,Saude,145.23
+2026-03-28,Estacionamento,Transporte,70.48
