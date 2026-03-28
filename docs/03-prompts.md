@@ -25,8 +25,6 @@ CentavoBot: "Anotado! 🥟 R$ 8,00 em Alimentação. Você ainda tem R$ 142,00 d
 
 ### Cenário 1: Registro de gasto dentro do limite
 
-### Cenário 1: Registro de gasto dentro do limite
-
 **Contexto:** O usuário tem R$ 300,00 de limite mensal na categoria Saúde. Gastou R$ 50,00 até agora.
 
 **Usuário:**
