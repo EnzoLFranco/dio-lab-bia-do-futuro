@@ -26,3 +26,23 @@ REGRAS:
 4. Baseie-se no status do orçamento fornecido para dar um breve conselho.
 """
 
+# Conexão
+def extrair_json_ollama(mensagem_usuario):
+    """Passo 1: Pede para o LLM extrair os dados e devolver um JSON."""
+    prompt = PROMPT_EXTRACAO.format(mensagem=mensagem_usuario)
+    
+    payload = {
+        "model": MODELO,
+        "prompt": prompt,
+        "format": "json", 
+        "stream": False
+    }
+    
+    resposta = requests.post(OLLAMA_URL, json=payload)
+    dados = resposta.json()['response']
+    
+    try:
+        return json.loads(dados)
+    except json.JSONDecodeError:
+        return {"valor": 0.0, "categoria": "Outros"}
+
